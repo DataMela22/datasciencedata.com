@@ -77,3 +77,5 @@ plugins:
   - Jekyll-paginate
 
 paginate: 6
+
+google_tag_manager: UA-133941371-1
