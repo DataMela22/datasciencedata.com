@@ -13,11 +13,11 @@ social:
   name: Data Science - Data
   links:
     # - https://twitter.com/BenBalter
-    - https://www.facebook.com/groups/1783416061775380/
-    - https://www.facebook.com/Data-Science-Data-826265831048759/
-    - https://www.linkedin.com/in/sheikhhanif
+    - https://www.facebook.com/groups/cslesson/
+    - fb.me/cslesson
+    # https://www.linkedin.com/in/sheikhhanif
     #- https://plus.google.com/+BenBalter
-    - https://github.com/sheikhhanif
+    # https://github.com/sheikhhanif
     #- https://keybase.io/benbalter
 
 # THEME SETTINGS
@@ -34,12 +34,12 @@ tagline: >
 
 hero_img: datascience.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: ict_hanif@yahoo.com # email for form submission
+email: geekslesson@gmail.com # email for form submission
 
 #twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
-github_username:  sheikhhanif
-linkedin_username: sheikhhanif
-facebook_username: 1783416061775380 
+#github_username:  sheikhhanif
+#linkedin_username: sheikhhanif
+facebook_username: cslesson
 youtube_username: geeklesson
 disqus:
   shortname: datasciencedata # to enable comments replace with your_disqus_shortname
